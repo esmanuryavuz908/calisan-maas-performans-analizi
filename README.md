@@ -89,6 +89,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
    ```bash
    jupyter notebook
    ```
-   Açılan arayüzden `[calisan_maas_performans_analizi].ipynb` dosyasını açın ve tüm hücreleri sırayla (**Restart & Run All**) çalıştırın.
+   Açılan arayüzden `calisan_maas_performans_analizi.ipynb` dosyasını açın ve tüm hücreleri sırayla (**Restart & Run All**) çalıştırın.
 
 ---
