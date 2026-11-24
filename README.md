@@ -67,8 +67,8 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[esmanuryavuz908]/[calisan-maas-performans-analizi].git
-   cd [calisan-maas-performans-analizi]
+   git clone https://github.com/esmanuryavuz908/calisan-maas-performans-analizi.git
+   cd calisan-maas-performans-analizi
    ```
 
 2. **(Önerilen) Sanal ortam oluşturun ve aktif edin:**
