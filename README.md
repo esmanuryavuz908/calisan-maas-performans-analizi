@@ -42,9 +42,9 @@ Bu proje aşağıdaki temel veri bilimi problemlerini pratik ve tekrarlanabilir 
 ### Gerçek Proje Çıktıları ve Bulgular
 
 * **Toplam Çalışan / Departman:** 200 çalışan, 5 departman
-* **Ortalama Maaş:** `[9654.43 TL]`
-* **Ortalama Deneyim:** `[9.5 Yıl]`
-* **Ortalama Performans Puanı:** `[48.6]`
+* **Ortalama Maaş:** `9654.43 TL`
+* **Ortalama Deneyim:** `9.5 Yıl`
+* **Ortalama Performans Puanı:** `48.6`
 * **Resampling Dağılımı:** Öncesi → `Software: 70, HR: 5, Finance: 5` | Sonrası → `Software: 70, HR: 70, Finance: 70`
 
 ---
